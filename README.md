@@ -1,139 +1,148 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0A1E,20:1B1035,45:4C1D95,70:7C3AED,100:A78BFA&text=Tanish%20Mishra&fontColor=ffffff&fontSize=68&fontAlignY=36&desc=Building%20AI%20Automation%20Systems&descColor=E9D5FF&descSize=20&descAlignY=58&animation=twinkling" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+Systems+That+Solve+Real+Problems.;Python+%7C+OpenAI+%7C+n8n+%7C+React;Learning.+Building.+Shipping.;Smart+India+Hackathon+2026." />
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tanish-mishra-392383263)
-[![Fiverr](https://img.shields.io/badge/Fiverr-7C3AED?style=for-the-badge\&logo=fiverr\&logoColor=white)](https://www.fiverr.com/tanish_mishra)
-[![Email](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tanish18906@gmail.com)
-
+  <img src="./assets/banner.png" width="100%" alt="Tanish | AI Engineer, Automation Builder and Creative Developer" />
+  <br /><br />
+  <a href="https://github.com/Tanish18906"><img src="https://img.shields.io/badge/GitHub-142540?style=flat-square&logo=github&logoColor=4DBDB8" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tanish-mishra-392383263"><img src="https://img.shields.io/badge/LinkedIn-142540?style=flat-square&logo=linkedin&logoColor=4DBDB8" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.fiverr.com/tanish_mishra"><img src="https://img.shields.io/badge/Fiverr-142540?style=flat-square&logo=fiverr&logoColor=4DBDB8" alt="Fiverr" /></a>
+  &nbsp;
+  <a href="mailto:tanish18906@gmail.com"><img src="https://img.shields.io/badge/Email-142540?style=flat-square&logo=gmail&logoColor=4DBDB8" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/Tanish18906?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-142540?style=flat-square&logo=git&logoColor=4DBDB8" alt="Repositories" /></a>
 </div>
 
----
+<br />
 
-## 👋 About Me
+## 01 // About Me
+
+I build software that bridges the gap between **autonomous AI models, production automation pipelines, and deterministic verification**. Based in **Raipur, India**, I am a Computer Science Engineering student focused on building intelligent systems that go beyond superficial text generation to take reliable, observable action.
+
+My engineering focus centers on **multi-agent architectures, forensic security tooling, and applied business automation**. Beyond the terminal, I channel an obsession with atmospheric world-building into **interactive storytelling and game development**—bringing the same discipline for systems architecture to immersive creative experiences.
 
 ```yaml
-Name       : Tanish Mishra
-Location   : Raipur, India
-Education  : Computer Science Student
-Focus      : AI Automation • Agentic AI • Python
-Currently  : Building real-world AI projects & preparing for Smart India Hackathon
-Philosophy : Learn. Build. Ship. Improve.
+developer:
+  name: Tanish Mishra
+  location: Raipur, India
+  discipline: AI Engineering · Automation Architect · Creative Developer
+  education: Computer Science Engineering
+  interests: [Multi-Agent Systems, Security Engineering, LLM Orchestration, Game Dev]
+  ambition: Build enduring software products & original narrative-driven games
+  credo: "Ground assertions in evidence; build systems that hold up under real-world pressure."
 ```
 
 ---
 
-# 🚀 Featured Projects
-
-> *(This section will grow with every project I ship.)*
-
-### 🛡️ Sentinel
-
-Cloud Traffic Anomaly & DDoS Detection System
-
-![Python](https://img.shields.io/badge/Python-4C1D95?style=flat-square\&logo=python\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4C1D95?style=flat-square)
-![Networking](https://img.shields.io/badge/Networking-4C1D95?style=flat-square)
-
-🏆 CS/IT Finalist — Vigyaan 2026, NIT Raipur
-
----
-
-### 🇮🇳 Bharat Lens
-
-Voice-first AI assistant for discovering Indian government schemes.
-
-![Python](https://img.shields.io/badge/Python-4C1D95?style=flat-square\&logo=python\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-4C1D95?style=flat-square\&logo=openai\&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4C1D95?style=flat-square)
-
----
-
-### 📧 AI Email Automation
-
-Production workflow for automated email handling and business automation.
-
-![n8n](https://img.shields.io/badge/n8n-4C1D95?style=flat-square\&logo=n8n\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-4C1D95?style=flat-square\&logo=openai\&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-4C1D95?style=flat-square\&logo=gmail\&logoColor=white)
-
----
-
-## 🔥 Current Focus
-
-* 🐍 Mastering Python
-* 🤖 Building AI Automation Systems
-* 📚 Data Structures & Algorithms
-* 🌍 Open Source Contributions
-* 🏆 Smart India Hackathon 2026
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-4C1D95?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-4C1D95?style=for-the-badge\&logo=javascript\&logoColor=white)
-
-### AI & Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-4C1D95?style=for-the-badge\&logo=openai\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-4C1D95?style=for-the-badge\&logo=n8n\&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-4C1D95?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-4C1D95?style=for-the-badge)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-4C1D95?style=for-the-badge\&logo=react\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-4C1D95?style=for-the-badge\&logo=vite\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-4C1D95?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-4C1D95?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge\&logo=github\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-4C1D95?style=for-the-badge\&logo=vercel\&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-4C1D95?style=for-the-badge\&logo=blender\&logoColor=white)
-
----
-
-## 📈 GitHub Statistics
+## 02 // Featured Projects
 
 <div align="center">
+  <a href="https://github.com/Tanish18906/SentraX"><img src="./assets/sentrax.svg" width="49%" alt="SentraX AI — Autonomous 5-Agent Security Testing CLI" /></a>
+  <a href="https://github.com/Tanish18906/PRATYAKSH"><img src="./assets/pratyaksh.svg" width="49%" alt="PRATYAKSH — Evidence-Driven Data Leak Forensics" /></a>
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanish18906&show_icons=true&hide_border=true&bg_color=0F0A1E&title_color=A78BFA&icon_color=A78BFA&text_color=DDD6FE" height="170"/>
+<br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish18906&layout=compact&hide_border=true&bg_color=0F0A1E&title_color=A78BFA&text_color=DDD6FE" height="170"/>
+| Project | Focus & Architecture | Core Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **[SentraX AI ↗](https://github.com/Tanish18906/SentraX)** | Autonomous 5-agent security testing CLI coordinating `Recon`, `Strategist`, `Exploit`, `Remediation`, and `Reporter` agents. Features deterministic confirmation rules for SQLi, XSS, and IDOR with comprehensive executive reporting. | `Python` `Pydantic` `Rich` `Pytest (89 tests)` `DAST/SAST` | [`Tanish18906/SentraX`](https://github.com/Tanish18906/SentraX) |
+| **[PRATYAKSH ↗](https://github.com/Tanish18906/PRATYAKSH)** | Evidence-driven data leak investigation platform built for INNOVATHON 2026. Employs HMAC MinHash file fingerprinting, custody graph traversal, ranked route analysis, and privacy-preserving audit logs. | `FastAPI` `React` `TypeScript` `Cytoscape.js` `Tailwind CSS` | [`Tanish18906/PRATYAKSH`](https://github.com/Tanish18906/PRATYAKSH) |
 
-<br><br>
+<br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish18906&bg_color=0F0A1E&color=A78BFA&line=7C3AED&point=DDD6FE&area=true&hide_border=true" width="95%"/>
+<details>
+<summary><b>🧪 In the Lab &amp; Explorations</b></summary>
+<br />
 
+- **Bharat Lens** — Voice-first multi-lingual assistant engineered to help citizens discover and navigate relevant Indian government welfare schemes using semantic retrieval and RAG. *(Private prototype)*
+- **ZerothAI** — Applied AI workflow engineering and multi-agent business automation pipelines designed for operational leverage.
+- **AI Email Automation** — Production orchestration workflow for contextual intent classification, intelligent draft generation, and human-in-the-loop review routing. *(Built with n8n, OpenAI API & Webhooks)*
+- **Sentinel** — Cloud traffic anomaly and DDoS pattern identification system. *(CS/IT Finalist, Vigyaan 2026 at NIT Raipur)*
+
+</details>
+
+---
+
+## 03 // Tech Arsenal
+
+<table>
+  <tr>
+    <td width="22%"><b>Languages</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark" alt="Python, JavaScript, TypeScript" /></a></td>
+  </tr>
+  <tr>
+    <td width="22%"><b>AI &amp; Automation</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,postman&theme=dark" alt="APIs and Microservices" /></a> &nbsp; <code>LLM APIs</code> · <code>n8n</code> · <code>LangChain</code> · <code>RAG</code> · <code>Multi-Agent Systems</code></td>
+  </tr>
+  <tr>
+    <td width="22%"><b>Frontend</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="React, Vite, Tailwind CSS, HTML5, CSS3" /></a></td>
+  </tr>
+  <tr>
+    <td width="22%"><b>Backend &amp; Databases</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,postgres&theme=dark" alt="Node.js, Express, SQLite, PostgreSQL" /></a></td>
+  </tr>
+  <tr>
+    <td width="22%"><b>Tools &amp; Creative</b></td>
+    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,unity,blender&theme=dark" alt="Git, GitHub, Linux, VS Code, Unity, Blender" /></a></td>
+  </tr>
+</table>
+
+---
+
+## 04 // Current Focus
+
+```bash
+~/tanish $ cat current_focus.json
+{
+  "active_pursuits": [
+    "Architecting autonomous, deterministic multi-agent systems",
+    "Developing end-to-end AI automation workflows with human-in-the-loop validation",
+    "Evidence-driven security tooling & vulnerability research engines",
+    "Refining distributed system test coverage and CI reliability",
+    "Prototyping narrative-driven world mechanics in Unity"
+  ],
+  "engineering_ethos": "Prefer working systems over speculation; verify before concluding."
+}
+```
+
+---
+
+## 05 // GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanish18906&show_icons=true&bg_color=08152B&title_color=4DBDB8&text_color=A8B8C8&icon_color=4DBDB8&border_color=142540" height="165" alt="Tanish's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish18906&layout=compact&bg_color=08152B&title_color=4DBDB8&text_color=A8B8C8&border_color=142540" height="165" alt="Tanish's Top Languages" />
 </div>
 
 ---
 
-## 🎯 2026 Goals
+## 06 // Beyond the Terminal
 
-* ✅ Master Python fundamentals
-* 🚀 Build production-ready AI systems
-* 🌍 Contribute consistently to Open Source
-* 🏆 Compete in Smart India Hackathon
-* 💼 Grow as an AI Automation Developer
+Beyond systems engineering and agentic workflows, I care deeply about **interactive storytelling and game development**. 
+
+Narrative masterpieces like *Red Dead Redemption 2*, *The Last of Us*, and *Uncharted* define the kind of software experiences I admire most: immersive, character-driven worlds where environmental details, pacing, and emotional resonance matter just as much as resilient systems underneath. Whether modeling assets in Blender, scripting mechanics in Unity, or engineering complex backend pipelines, the standard remains identical—**deliberate craft in every detail**.
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by!
+### Good ideas are common. Working systems are rare.
 
-**Build • Learn • Ship • Repeat**
+Whether you are exploring agentic architectures, automation pipelines, or creative collaborations—let's build something real.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
+<br />
+
+<a href="https://www.linkedin.com/in/tanish-mishra-392383263"><img src="https://img.shields.io/badge/LinkedIn-Connect-142540?style=flat-square&logo=linkedin&logoColor=4DBDB8" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://www.fiverr.com/tanish_mishra"><img src="https://img.shields.io/badge/Fiverr-Hire_Me-142540?style=flat-square&logo=fiverr&logoColor=4DBDB8" alt="Fiverr" /></a>
+&nbsp;
+<a href="mailto:tanish18906@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-142540?style=flat-square&logo=gmail&logoColor=4DBDB8" alt="Email" /></a>
+&nbsp;
+<a href="https://github.com/Tanish18906"><img src="https://img.shields.io/badge/GitHub-Follow-142540?style=flat-square&logo=github&logoColor=4DBDB8" alt="GitHub" /></a>
+
+<br /><br />
+
+<sub>Designed with precision · Raipur, India · © 2026 Tanish Mishra</sub>
 
 </div>

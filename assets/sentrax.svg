@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="300" viewBox="0 0 620 300" role="img" aria-label="SentraX AI: Autonomous security testing">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08152B"/>
+      <stop offset="100%" stop-color="#142540"/>
+    </linearGradient>
+    <pattern id="micro" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" stroke="#4DBDB8" stroke-opacity="0.04" fill="none"/>
+    </pattern>
+    <linearGradient id="tealGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4DBDB8"/>
+      <stop offset="100%" stop-color="#2C8D89"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background card -->
+  <rect x="1" y="1" width="618" height="298" rx="16" fill="url(#cardBg)" stroke="#4DBDB8" stroke-opacity="0.32" stroke-width="1.5"/>
+  <rect x="2" y="2" width="616" height="296" rx="15" fill="url(#micro)"/>
+
+  <!-- Badge / Index -->
+  <rect x="30" y="32" width="10" height="10" rx="2" fill="#4DBDB8"/>
+  <text x="50" y="42" fill="#4DBDB8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2">FEATURED // 01</text>
+
+  <!-- Title & Subtitle -->
+  <text x="30" y="108" fill="#F5F7FA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="-1">SentraX AI</text>
+  <text x="31" y="140" fill="#A8B8C8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="400">Autonomous 5-Agent Security Testing CLI</text>
+
+  <!-- Pipeline tag pill -->
+  <rect x="30" y="172" rx="14" width="280" height="28" fill="#4DBDB8" fill-opacity="0.1" stroke="#4DBDB8" stroke-opacity="0.45" stroke-width="1"/>
+  <text x="44" y="191" fill="#4DBDB8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11.5" font-weight="700" letter-spacing="1">RECON &gt; VERIFY &gt; REMEDIATE</text>
+
+  <!-- Bottom divider & metadata -->
+  <line x1="30" y1="238" x2="590" y2="238" stroke="#4DBDB8" stroke-opacity="0.18"/>
+  <text x="30" y="266" fill="#A8B8C8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11">PYTHON · DAST/SAST · 89 TESTS PASSING</text>
+  <text x="590" y="266" fill="#4DBDB8" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700">EXPLORE REPO ↗</text>
+
+  <!-- Vector Shield & 5-Agent Orchestrator Graph -->
+  <g transform="translate(372, 52)">
+    <!-- Outer Shield Boundary -->
+    <path d="M110 0 L200 48 L200 138 Q200 190 110 220 Q20 190 20 138 L20 48 Z" fill="none" stroke="#4DBDB8" stroke-width="1.5" stroke-opacity="0.25"/>
+    <path d="M110 18 L184 58 L184 132 Q184 174 110 198 Q36 174 36 132 L36 58 Z" fill="none" stroke="#4DBDB8" stroke-width="1.5" stroke-dasharray="4 8" stroke-opacity="0.35"/>
+    
+    <!-- 5 Agent Nodes: Recon, Strategist, Exploit, Remediation, Reporter -->
+    <!-- Connecting constellation lines -->
+    <line x1="110" y1="36" x2="52" y2="92" stroke="#4DBDB8" stroke-width="1.5" stroke-opacity="0.5"/>
+    <line x1="110" y1="36" x2="168" y2="92" stroke="#4DBDB8" stroke-width="1.5" stroke-opacity="0.5"/>
+    <line x1="52" y1="92" x2="110" y2="128" stroke="#4DBDB8" stroke-width="2" stroke-opacity="0.7"/>
+    <line x1="168" y1="92" x2="110" y2="128" stroke="#4DBDB8" stroke-width="2" stroke-opacity="0.7"/>
+    <line x1="110" y1="128" x2="72" y2="175" stroke="#4DBDB8" stroke-width="1.5" stroke-opacity="0.6"/>
+    <line x1="110" y1="128" x2="148" y2="175" stroke="#4DBDB8" stroke-width="1.5" stroke-opacity="0.6"/>
+    
+    <!-- Central Agent Core -->
+    <circle cx="110" cy="128" r="14" fill="#08152B" stroke="#4DBDB8" stroke-width="2.5"/>
+    <circle cx="110" cy="128" r="6" fill="#4DBDB8"/>
+
+    <!-- Outer Nodes -->
+    <circle cx="110" cy="36" r="9" fill="#142540" stroke="#4DBDB8" stroke-width="2"/>
+    <circle cx="52" cy="92" r="8" fill="#142540" stroke="#4DBDB8" stroke-width="1.5"/>
+    <circle cx="168" cy="92" r="8" fill="#142540" stroke="#4DBDB8" stroke-width="1.5"/>
+    <circle cx="72" cy="175" r="7" fill="#142540" stroke="#4DBDB8" stroke-width="1.5"/>
+    <circle cx="148" cy="175" r="7" fill="#142540" stroke="#4DBDB8" stroke-width="1.5"/>
+  </g>
+</svg>
