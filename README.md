@@ -94,7 +94,7 @@
 
 <!-- Dynamic public contribution graph. -->
 <a href="https://github.com/Tanish18906">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish18906&amp;bg_color=F7F5EE&amp;color=161616&amp;title_color=161616&amp;line=D8B600&amp;point=161616&amp;area_color=FACC00&amp;area=true&amp;hide_border=true&amp;radius=0&amp;custom_title=RECENT%20CONTRIBUTIONS" alt="Recent public GitHub activity for Tanish18906" width="100%" />
+  <img src="./assets/activity.svg" alt="Recent public GitHub activity for Tanish18906" width="100%" />
 </a>
 
 <p align="center"><small><em>What I've been making, fixing, and learning on GitHub.</em></small></p>

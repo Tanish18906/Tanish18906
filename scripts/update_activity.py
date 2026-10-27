@@ -78,22 +78,37 @@ def render(calendar):
         f'<title>{escape(LOGIN)} GitHub contribution activity</title>',
         f'<rect width="1040" height="320" fill="{CREAM}"/>',
         f'<rect x="2" y="2" width="1036" height="316" fill="none" stroke="{INK}" stroke-width="3"/>',
-        f'<text x="34" y="48" font-family="{FONT}" font-size="29" font-weight="800" fill="{INK}">05 / GITHUB ACTIVITY</text>',
+        f'<text x="34" y="48" font-family="{FONT}" font-size="29" font-weight="800" fill="{INK}">GITHUB ACTIVITY</text>',
         f'<text x="1007" y="46" text-anchor="end" font-family="{FONT}" font-size="21" font-weight="700" fill="{INK}">{total:,} CONTRIBUTIONS</text>',
         f'<path d="M34 68H1006" stroke="{INK}" stroke-width="2"/>',
     ]
-    last_month = None
+
+    # Pre-collect month starts to prevent label overlap when week 0 has only a few days
+    month_starts = []
+    last_m = None
+    for column, week in enumerate(weeks):
+        if week["contributionDays"]:
+            m = date.fromisoformat(week["contributionDays"][0]["date"]).strftime("%b")
+            if m != last_m:
+                month_starts.append((column, m))
+                last_m = m
+
+    valid_labels = {}
+    for i, (col, m) in enumerate(month_starts):
+        if i + 1 < len(month_starts):
+            next_col = month_starts[i + 1][0]
+            if next_col - col < 3:
+                continue
+        valid_labels[col] = m
+
     for column, week in enumerate(weeks):
         for day_idx, day in enumerate(week["contributionDays"]):
             count = int(day["contributionCount"])
             x = 40 + column * 18
             y = 123 + day_idx * 20
             rows.append(f'<rect x="{x}" y="{y}" width="13" height="13" rx="2" fill="{color(count)}"/>')
-        if week["contributionDays"]:
-            current = date.fromisoformat(week["contributionDays"][0]["date"]).strftime("%b")
-            if current != last_month:
-                rows.append(f'<text x="{40+column*18}" y="104" font-family="{FONT}" font-size="18" font-weight="600" fill="{INK}">{current.upper()}</text>')
-                last_month = current
+        if column in valid_labels:
+            rows.append(f'<text x="{40+column*18}" y="104" font-family="{FONT}" font-size="18" font-weight="600" fill="{INK}">{valid_labels[column].upper()}</text>')
     rows.extend([
         f'<text x="37" y="300" font-family="{FONT}" font-size="15" font-weight="700" fill="{INK}" letter-spacing="1">VISIBLE GITHUB CONTRIBUTIONS · LAST 12 MONTHS</text>',
         f'<text x="801" y="300" font-family="{FONT}" font-size="15" font-weight="600" fill="{INK}">LESS</text>',
