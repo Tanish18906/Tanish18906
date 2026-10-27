@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 255" width="1040" height="255" role="img" aria-label="RIDLEY ACADEMY: Support emails with a human fallback."><title>RIDLEY ACADEMY: Support emails with a human fallback.</title>
+<rect width="1040" height="255" fill="#F7F5EE"/><rect x="2" y="2" width="1036" height="251" fill="none" stroke="#161616" stroke-width="3"/>
+<rect x="2" y="2" width="12" height="251" fill="#FACC00"/>
+<line x1="748" y1="19" x2="748" y2="236" stroke="#161616" stroke-width="2"/>
+<text x="42" y="48" fill="#66645E" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="700" letter-spacing="2">02 / CLIENT WORK</text>
+<text x="40" y="137" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="65" font-weight="800" letter-spacing="-2">RIDLEY ACADEMY</text>
+<text x="42" y="185" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="31" font-weight="500" >Support emails with a human fallback.</text>
+<line x1="42" y1="205" x2="704" y2="205" stroke="#161616" stroke-width="2"/>
+<text x="42" y="234" fill="#66645E" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="700" letter-spacing="1">N8N / RAG / PINECONE</text>
+<g transform="translate(770,18)">
+
+        <rect x="35" y="15" width="177" height="150" fill="#F7F5EE" stroke="#161616" stroke-width="3"/>
+        <path d="M65 53H182M65 80H168M65 107H151" stroke="#161616" stroke-width="4"/>
+        <path d="M68 165L57 184L106 165" fill="#F7F5EE" stroke="#161616" stroke-width="3"/>
+        <rect x="151" y="122" width="79" height="67" fill="#FACC00" stroke="#161616" stroke-width="3"/>
+        <path d="M167 150H214M167 165H200" stroke="#161616" stroke-width="3"/>
+        
+</g>
+</svg>

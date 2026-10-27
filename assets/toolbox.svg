@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 497" width="1040" height="497" role="img" aria-label="The tools Tanish builds with"><title>The tools Tanish builds with</title>
+<rect width="1040" height="497" fill="#F7F5EE"/><rect x="2" y="2" width="1036" height="493" fill="none" stroke="#161616" stroke-width="3"/>
+<text x="34" y="46" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="30" font-weight="800" letter-spacing="1">WHAT I BUILD WITH</text>
+<rect x="944" y="17" width="70" height="35" fill="#FACC00" stroke="#161616" stroke-width="2"/>
+<text x="962" y="42" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="800" >TM</text>
+<line x1="26" y1="72" x2="1015" y2="72" stroke="#161616" stroke-width="2"/>
+<text x="34" y="120" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="800" >LANGUAGES</text>
+<rect x="331" y="86" width="99" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="345" y="117" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >Python</text>
+<rect x="441" y="86" width="149" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="455" y="117" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >JavaScript</text>
+<rect x="601" y="86" width="149" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="615" y="117" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >TypeScript</text>
+<line x1="26" y1="153" x2="1015" y2="153" stroke="#161616" stroke-width="2"/>
+<text x="34" y="201" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="800" >AI &amp; AUTOMATION</text>
+<rect x="331" y="167" width="89" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="345" y="198" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >n8n</text>
+<rect x="431" y="167" width="149" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="445" y="198" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >OpenAI API</text>
+<rect x="591" y="167" width="89" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="605" y="198" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >RAG</text>
+<rect x="691" y="167" width="136" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="705" y="198" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >LangChain</text>
+<line x1="26" y1="234" x2="1015" y2="234" stroke="#161616" stroke-width="2"/>
+<text x="34" y="282" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="800" >FRONTEND</text>
+<rect x="331" y="248" width="89" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="345" y="279" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >React</text>
+<rect x="431" y="248" width="112" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="445" y="279" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >Next.js</text>
+<rect x="554" y="248" width="173" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="568" y="279" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >Tailwind CSS</text>
+<line x1="26" y1="315" x2="1015" y2="315" stroke="#161616" stroke-width="2"/>
+<text x="34" y="363" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="800" >BACKEND / DATA</text>
+<rect x="331" y="329" width="112" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="345" y="360" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >FastAPI</text>
+<rect x="454" y="329" width="112" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="468" y="360" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >Node.js</text>
+<rect x="577" y="329" width="149" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="591" y="360" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >PostgreSQL</text>
+<rect x="737" y="329" width="124" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="751" y="360" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >Supabase</text>
+<rect x="872" y="329" width="99" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="886" y="360" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >SQLite</text>
+<line x1="26" y1="396" x2="1015" y2="396" stroke="#161616" stroke-width="2"/>
+<text x="34" y="444" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="23" font-weight="800" >TOOLS / CREATIVE</text>
+<rect x="331" y="410" width="89" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="345" y="441" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >Git</text>
+<rect x="431" y="410" width="89" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="445" y="441" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >Linux</text>
+<rect x="531" y="410" width="89" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="545" y="441" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >Unity</text>
+<rect x="631" y="410" width="112" height="48" fill="#F7F5EE" stroke="#161616" stroke-width="2"/>
+<text x="645" y="441" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="21" font-weight="650" >Blender</text>
+</svg>

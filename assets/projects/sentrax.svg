@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 255" width="1040" height="255" role="img" aria-label="SENTRAX AI: Security findings backed by proof."><title>SENTRAX AI: Security findings backed by proof.</title>
+<rect width="1040" height="255" fill="#F7F5EE"/><rect x="2" y="2" width="1036" height="251" fill="none" stroke="#161616" stroke-width="3"/>
+<rect x="2" y="2" width="12" height="251" fill="#FACC00"/>
+<line x1="748" y1="19" x2="748" y2="236" stroke="#161616" stroke-width="2"/>
+<text x="42" y="48" fill="#66645E" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="700" letter-spacing="2">03 / SECURITY TOOL</text>
+<text x="40" y="137" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="83" font-weight="800" letter-spacing="-2">SENTRAX AI</text>
+<text x="42" y="185" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="31" font-weight="500" >Security findings backed by proof.</text>
+<line x1="42" y1="205" x2="704" y2="205" stroke="#161616" stroke-width="2"/>
+<text x="42" y="234" fill="#66645E" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="700" letter-spacing="1">PYTHON / PYDANTIC / PYTEST</text>
+<g transform="translate(770,18)">
+
+        <path d="M130 10L213 44V111C213 159 180 191 130 207C80 191 47 159 47 111V44Z" fill="#F7F5EE" stroke="#161616" stroke-width="3"/>
+        <path d="M130 38L184 60V111C184 141 164 163 130 178C96 163 76 141 76 111V60Z" fill="none" stroke="#161616" stroke-width="2"/>
+        <circle cx="130" cy="109" r="36" fill="#FACC00" stroke="#161616" stroke-width="3"/>
+        <path d="M130 88V130M109 109H151" stroke="#161616" stroke-width="3"/>
+        <circle cx="130" cy="38" r="5" fill="#161616"/><circle cx="184" cy="111" r="5" fill="#161616"/>
+        <circle cx="130" cy="178" r="5" fill="#161616"/><circle cx="76" cy="111" r="5" fill="#161616"/>
+        
+</g>
+</svg>

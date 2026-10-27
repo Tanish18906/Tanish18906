@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 255" width="1040" height="255" role="img" aria-label="FOREMAN: Inbox triage with human approval."><title>FOREMAN: Inbox triage with human approval.</title>
+<rect width="1040" height="255" fill="#F7F5EE"/><rect x="2" y="2" width="1036" height="251" fill="none" stroke="#161616" stroke-width="3"/>
+<rect x="2" y="2" width="12" height="251" fill="#FACC00"/>
+<line x1="748" y1="19" x2="748" y2="236" stroke="#161616" stroke-width="2"/>
+<text x="42" y="48" fill="#66645E" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="700" letter-spacing="2">01 / CLIENT PROTOTYPE</text>
+<text x="40" y="137" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="85" font-weight="800" letter-spacing="-2">FOREMAN</text>
+<text x="42" y="185" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="31" font-weight="500" >Inbox triage with human approval.</text>
+<line x1="42" y1="205" x2="704" y2="205" stroke="#161616" stroke-width="2"/>
+<text x="42" y="234" fill="#66645E" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="700" letter-spacing="1">NEXT.JS / N8N / SUPABASE</text>
+<g transform="translate(770,18)">
+
+        <rect x="48" y="28" width="148" height="112" fill="#F7F5EE" stroke="#161616" stroke-width="3"/>
+        <path d="M48 28L122 89L196 28" fill="none" stroke="#161616" stroke-width="3"/>
+        <rect x="66" y="68" width="148" height="112" fill="#F7F5EE" stroke="#161616" stroke-width="3"/>
+        <path d="M66 68L140 129L214 68" fill="none" stroke="#161616" stroke-width="3"/>
+        <rect x="158" y="11" width="60" height="60" fill="#FACC00" stroke="#161616" stroke-width="3"/>
+        <path d="M187 24V56M171 40H203" stroke="#161616" stroke-width="3"/>
+        
+</g>
+</svg>

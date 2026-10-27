@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 255" width="1040" height="255" role="img" aria-label="PRATYAKSH: Trace a leak through incomplete logs."><title>PRATYAKSH: Trace a leak through incomplete logs.</title>
+<rect width="1040" height="255" fill="#F7F5EE"/><rect x="2" y="2" width="1036" height="251" fill="none" stroke="#161616" stroke-width="3"/>
+<rect x="2" y="2" width="12" height="251" fill="#FACC00"/>
+<line x1="748" y1="19" x2="748" y2="236" stroke="#161616" stroke-width="2"/>
+<text x="42" y="48" fill="#66645E" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="20" font-weight="700" letter-spacing="2">04 / HACKATHON PROJECT</text>
+<text x="40" y="137" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="76" font-weight="800" letter-spacing="-2">PRATYAKSH</text>
+<text x="42" y="185" fill="#161616" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="31" font-weight="500" >Trace a leak through incomplete logs.</text>
+<line x1="42" y1="205" x2="704" y2="205" stroke="#161616" stroke-width="2"/>
+<text x="42" y="234" fill="#66645E" font-family="Space Grotesk, Arial, DejaVu Sans, sans-serif" font-size="17" font-weight="700" letter-spacing="1">FASTAPI / REACT / TYPESCRIPT</text>
+<g transform="translate(770,18)">
+
+        <path d="M47 155L104 91L173 135L210 44" stroke="#161616" stroke-width="3" fill="none"/>
+        <path d="M104 91L133 36L210 44" stroke="#161616" stroke-width="2" fill="none" stroke-dasharray="7 8"/>
+        <rect x="24" y="132" width="47" height="47" fill="#F7F5EE" stroke="#161616" stroke-width="3"/>
+        <rect x="81" y="68" width="47" height="47" fill="#FACC00" stroke="#161616" stroke-width="3"/>
+        <rect x="152" y="113" width="43" height="43" fill="#F7F5EE" stroke="#161616" stroke-width="3"/>
+        <circle cx="210" cy="44" r="24" fill="#F7F5EE" stroke="#161616" stroke-width="3"/>
+        <circle cx="210" cy="44" r="6" fill="#161616"/>
+        
+</g>
+</svg>

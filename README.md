@@ -1,148 +1,141 @@
-<div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Tanish | AI Engineer, Automation Builder and Creative Developer" />
-  <br /><br />
-  <a href="https://github.com/Tanish18906"><img src="https://img.shields.io/badge/GitHub-142540?style=flat-square&logo=github&logoColor=4DBDB8" alt="GitHub" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/tanish-mishra-392383263"><img src="https://img.shields.io/badge/LinkedIn-142540?style=flat-square&logo=linkedin&logoColor=4DBDB8" alt="LinkedIn" /></a>
-  &nbsp;
-  <a href="https://www.fiverr.com/tanish_mishra"><img src="https://img.shields.io/badge/Fiverr-142540?style=flat-square&logo=fiverr&logoColor=4DBDB8" alt="Fiverr" /></a>
-  &nbsp;
-  <a href="mailto:tanish18906@gmail.com"><img src="https://img.shields.io/badge/Email-142540?style=flat-square&logo=gmail&logoColor=4DBDB8" alt="Email" /></a>
-  &nbsp;
-  <a href="https://github.com/Tanish18906?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-142540?style=flat-square&logo=git&logoColor=4DBDB8" alt="Repositories" /></a>
-</div>
-
-<br />
-
-## 01 // About Me
-
-I build software that bridges the gap between **autonomous AI models, production automation pipelines, and deterministic verification**. Based in **Raipur, India**, I am a Computer Science Engineering student focused on building intelligent systems that go beyond superficial text generation to take reliable, observable action.
-
-My engineering focus centers on **multi-agent architectures, forensic security tooling, and applied business automation**. Beyond the terminal, I channel an obsession with atmospheric world-building into **interactive storytelling and game development**—bringing the same discipline for systems architecture to immersive creative experiences.
-
-```yaml
-developer:
-  name: Tanish Mishra
-  location: Raipur, India
-  discipline: AI Engineering · Automation Architect · Creative Developer
-  education: Computer Science Engineering
-  interests: [Multi-Agent Systems, Security Engineering, LLM Orchestration, Game Dev]
-  ambition: Build enduring software products & original narrative-driven games
-  credo: "Ground assertions in evidence; build systems that hold up under real-world pressure."
-```
-
----
-
-## 02 // Featured Projects
+<!-- Tanish Mishra | Portfolio-aligned GitHub profile -->
 
 <div align="center">
-  <a href="https://github.com/Tanish18906/SentraX"><img src="./assets/sentrax.svg" width="49%" alt="SentraX AI — Autonomous 5-Agent Security Testing CLI" /></a>
-  <a href="https://github.com/Tanish18906/PRATYAKSH"><img src="./assets/pratyaksh.svg" width="49%" alt="PRATYAKSH — Evidence-Driven Data Leak Forensics" /></a>
+  <a href="https://www.tanishmishra.tech" title="Visit my portfolio">
+    <img src="./assets/banner.png" alt="Tanish Mishra, AI Infrastructure Builder" width="100%" />
+  </a>
+
+  <p>
+    <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
+    <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
+    <a href="#github-activity">Activity</a> &nbsp; / &nbsp;
+    <a href="#on-my-desk">On my desk</a> &nbsp; / &nbsp;
+    <a href="#lets-talk">Contact</a>
+  </p>
 </div>
 
-<br />
+<p align="center">
+  I'm Tanish, a second-year CSE student from Raipur. I build practical AI workflows, web apps, and security tools.
+  Some are for clients. Others start with a question I can't stop thinking about.
+</p>
 
-| Project | Focus & Architecture | Core Stack | Repository |
-| :--- | :--- | :--- | :--- |
-| **[SentraX AI ↗](https://github.com/Tanish18906/SentraX)** | Autonomous 5-agent security testing CLI coordinating `Recon`, `Strategist`, `Exploit`, `Remediation`, and `Reporter` agents. Features deterministic confirmation rules for SQLi, XSS, and IDOR with comprehensive executive reporting. | `Python` `Pydantic` `Rich` `Pytest (89 tests)` `DAST/SAST` | [`Tanish18906/SentraX`](https://github.com/Tanish18906/SentraX) |
-| **[PRATYAKSH ↗](https://github.com/Tanish18906/PRATYAKSH)** | Evidence-driven data leak investigation platform built for INNOVATHON 2026. Employs HMAC MinHash file fingerprinting, custody graph traversal, ranked route analysis, and privacy-preserving audit logs. | `FastAPI` `React` `TypeScript` `Cytoscape.js` `Tailwind CSS` | [`Tanish18906/PRATYAKSH`](https://github.com/Tanish18906/PRATYAKSH) |
+## Selected work
 
-<br />
+<a href="https://www.tanishmishra.tech/work/sop-opera" title="Read the Foreman case study">
+  <img src="./assets/projects/foreman.svg" width="100%" alt="Foreman: inbox triage, draft replies, human approval" />
+</a>
 
 <details>
-<summary><b>🧪 In the Lab &amp; Explorations</b></summary>
-<br />
+  <summary><b>Open Foreman details</b> &nbsp; | &nbsp; Prototype · Workflow · Demo</summary>
 
-- **Bharat Lens** — Voice-first multi-lingual assistant engineered to help citizens discover and navigate relevant Indian government welfare schemes using semantic retrieval and RAG. *(Private prototype)*
-- **ZerothAI** — Applied AI workflow engineering and multi-agent business automation pipelines designed for operational leverage.
-- **AI Email Automation** — Production orchestration workflow for contextual intent classification, intelligent draft generation, and human-in-the-loop review routing. *(Built with n8n, OpenAI API & Webhooks)*
-- **Sentinel** — Cloud traffic anomaly and DDoS pattern identification system. *(CS/IT Finalist, Vigyaan 2026 at NIT Raipur)*
+  An interactive prototype for a UK construction team handling messages from two inboxes. It organizes requests, prepares replies, and keeps staff in control of approval. The demo uses sample data and manual email triggers; direct inbox integration was not completed.
 
+  **Next.js · TypeScript · n8n · Supabase · OpenAI**
+
+  [Case study](https://www.tanishmishra.tech/work/sop-opera) · [Source code](https://github.com/Tanish18906/Project-Saint-Builder) · [Prototype](https://allsaintsbuilders.vercel.app/login)
 </details>
 
----
+<a href="https://www.tanishmishra.tech/work/flowsync" title="Read the Ridley Academy case study">
+  <img src="./assets/projects/ridley.svg" width="100%" alt="Ridley Academy: support email workflow with human escalation" />
+</a>
 
-## 03 // Tech Arsenal
+<details>
+  <summary><b>Open Ridley Academy details</b> &nbsp; | &nbsp; Client work · Support automation</summary>
 
-<table>
-  <tr>
-    <td width="22%"><b>Languages</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark" alt="Python, JavaScript, TypeScript" /></a></td>
-  </tr>
-  <tr>
-    <td width="22%"><b>AI &amp; Automation</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,postman&theme=dark" alt="APIs and Microservices" /></a> &nbsp; <code>LLM APIs</code> · <code>n8n</code> · <code>LangChain</code> · <code>RAG</code> · <code>Multi-Agent Systems</code></td>
-  </tr>
-  <tr>
-    <td width="22%"><b>Frontend</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" alt="React, Vite, Tailwind CSS, HTML5, CSS3" /></a></td>
-  </tr>
-  <tr>
-    <td width="22%"><b>Backend &amp; Databases</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,postgres&theme=dark" alt="Node.js, Express, SQLite, PostgreSQL" /></a></td>
-  </tr>
-  <tr>
-    <td width="22%"><b>Tools &amp; Creative</b></td>
-    <td><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,linux,vscode,unity,blender&theme=dark" alt="Git, GitHub, Linux, VS Code, Unity, Blender" /></a></td>
-  </tr>
-</table>
+  A support email workflow for an online piano-learning platform. It uses a knowledge base to help with routine questions and hands sensitive cases to a person.
 
----
+  **n8n · OpenAI · Pinecone · Gmail · Slack**
 
-## 04 // Current Focus
+  [Case study](https://www.tanishmishra.tech/work/flowsync)
+</details>
 
-```bash
-~/tanish $ cat current_focus.json
-{
-  "active_pursuits": [
-    "Architecting autonomous, deterministic multi-agent systems",
-    "Developing end-to-end AI automation workflows with human-in-the-loop validation",
-    "Evidence-driven security tooling & vulnerability research engines",
-    "Refining distributed system test coverage and CI reliability",
-    "Prototyping narrative-driven world mechanics in Unity"
-  ],
-  "engineering_ethos": "Prefer working systems over speculation; verify before concluding."
-}
-```
+<a href="https://github.com/Tanish18906/SentraX" title="Explore SentraX AI on GitHub">
+  <img src="./assets/projects/sentrax.svg" width="100%" alt="SentraX AI: five-agent security testing CLI" />
+</a>
 
----
+<details>
+  <summary><b>Open SentraX details</b> &nbsp; | &nbsp; Security · Python CLI</summary>
 
-## 05 // GitHub Activity
+  A security testing CLI with five focused agents. It checks selected vulnerabilities, separates confirmed findings from guesses, and shows what needs fixing.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tanish18906&show_icons=true&bg_color=08152B&title_color=4DBDB8&text_color=A8B8C8&icon_color=4DBDB8&border_color=142540" height="165" alt="Tanish's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanish18906&layout=compact&bg_color=08152B&title_color=4DBDB8&text_color=A8B8C8&border_color=142540" height="165" alt="Tanish's Top Languages" />
-</div>
+  **Python · Pydantic · Rich · Pytest**
 
----
+  [Case study](https://www.tanishmishra.tech/work/konta) · [Source code](https://github.com/Tanish18906/SentraX)
+</details>
 
-## 06 // Beyond the Terminal
+<a href="https://github.com/Tanish18906/PRATYAKSH" title="Explore PRATYAKSH on GitHub">
+  <img src="./assets/projects/pratyaksh.svg" width="100%" alt="PRATYAKSH: simulated data leak forensics" />
+</a>
 
-Beyond systems engineering and agentic workflows, I care deeply about **interactive storytelling and game development**. 
+<details>
+  <summary><b>Open PRATYAKSH details</b> &nbsp; | &nbsp; Hackathon · Digital forensics</summary>
 
-Narrative masterpieces like *Red Dead Redemption 2*, *The Last of Us*, and *Uncharted* define the kind of software experiences I admire most: immersive, character-driven worlds where environmental details, pacing, and emotional resonance matter just as much as resilient systems underneath. Whether modeling assets in Blender, scripting mechanics in Unity, or engineering complex backend pipelines, the standard remains identical—**deliberate craft in every detail**.
+  A simulated data-leak investigation tool. It matches file fingerprints, traces possible paths through incomplete logs, and makes the missing evidence visible.
 
----
+  **FastAPI · Python · React · TypeScript**
 
-<div align="center">
+  [Case study](https://www.tanishmishra.tech/work/gina) · [Source code](https://github.com/Tanish18906/PRATYAKSH) · [Demo](https://pratyaksh-frontend.netlify.app)
+</details>
 
-### Good ideas are common. Working systems are rare.
+<p align="right">
+  <a href="https://www.tanishmishra.tech/work"><b>See all project write-ups →</b></a>
+</p>
 
-Whether you are exploring agentic architectures, automation pipelines, or creative collaborations—let's build something real.
+<details>
+  <summary><b>More experiments from my GitHub</b></summary>
 
-<br />
+  - [ReviewLens](https://github.com/Tanish18906/ReviewLens): a student review platform exploring sentiment and review credibility.
+  - [Python Learning](https://github.com/Tanish18906/Python-Learning): exercises and experiments from learning Python.
+</details>
 
-<a href="https://www.linkedin.com/in/tanish-mishra-392383263"><img src="https://img.shields.io/badge/LinkedIn-Connect-142540?style=flat-square&logo=linkedin&logoColor=4DBDB8" alt="LinkedIn" /></a>
-&nbsp;
-<a href="https://www.fiverr.com/tanish_mishra"><img src="https://img.shields.io/badge/Fiverr-Hire_Me-142540?style=flat-square&logo=fiverr&logoColor=4DBDB8" alt="Fiverr" /></a>
-&nbsp;
-<a href="mailto:tanish18906@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-142540?style=flat-square&logo=gmail&logoColor=4DBDB8" alt="Email" /></a>
-&nbsp;
-<a href="https://github.com/Tanish18906"><img src="https://img.shields.io/badge/GitHub-Follow-142540?style=flat-square&logo=github&logoColor=4DBDB8" alt="GitHub" /></a>
+## Toolbox
 
-<br /><br />
+<img src="./assets/toolbox.svg" alt="Tanish's languages, AI and automation tools, frontend, backend, data, and creative tools" width="100%" />
 
-<sub>Designed with precision · Raipur, India · © 2026 Tanish Mishra</sub>
+<details>
+  <summary><b>How I usually put these tools together</b></summary>
 
-</div>
+  **Frontend → API → database → automation → human review.**
+
+  I like tools that are easy to understand and change when requirements shift. The stack depends on the problem, not the other way around.
+
+  <sub>Text version of the toolbox for smaller screens:</sub>
+
+  - **Languages:** Python, JavaScript, TypeScript
+  - **AI & automation:** n8n, OpenAI API, RAG, LangChain
+  - **Frontend:** React, Next.js, Tailwind CSS
+  - **Backend & data:** FastAPI, Node.js, PostgreSQL, Supabase, SQLite
+  - **Tools & creative:** Git, Linux, Unity, Blender
+</details>
+
+## GitHub activity
+
+<img src="./assets/activity.svg" alt="GitHub contribution activity, refreshed automatically each week" width="100%" />
+
+<p align="center">
+  <sub>Public contributions · Updated weekly through GitHub Actions</sub>
+</p>
+
+## On my desk
+
+<img src="./assets/now.svg" alt="Now: starting an AI services agency. Next: building in public. Someday: narrative games." width="100%" />
+
+<details>
+  <summary><b>And when I'm not coding?</b></summary>
+
+  I'm into story-driven games, interactive interfaces, and small experiments. *Red Dead Redemption 2*, *The Last of Us*, and *Uncharted* are the games that made me want to create worlds of my own someday.
+</details>
+
+## Let's talk
+
+<a href="mailto:tanish18906@gmail.com" title="Email Tanish">
+  <img src="./assets/contact.svg" width="100%" alt="Let's build it. Email Tanish." />
+</a>
+
+<p align="center">
+  <a href="https://www.tanishmishra.tech"><b>Portfolio</b></a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/tanish-mishra-392383263"><b>LinkedIn</b></a> &nbsp; / &nbsp;
+  <a href="mailto:tanish18906@gmail.com"><b>Email</b></a>
+</p>
+
+<p align="center"><sub>Designed with a little help from late nights and too many open tabs.</sub></p>
