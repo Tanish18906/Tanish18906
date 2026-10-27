@@ -7,11 +7,11 @@
   </a>
 
   <p>
-    <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
-    <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
-    <a href="#github-activity">Activity</a> &nbsp; / &nbsp;
-    <a href="#on-my-desk">On my desk</a> &nbsp; / &nbsp;
-    <a href="#lets-talk">Contact</a>
+    <a href="#selected-work"><b>Selected work</b></a> &nbsp; / &nbsp;
+    <a href="#toolbox"><b>Toolbox</b></a> &nbsp; / &nbsp;
+    <a href="#github-activity"><b>Activity</b></a> &nbsp; / &nbsp;
+    <a href="#on-my-desk"><b>On my desk</b></a> &nbsp; / &nbsp;
+    <a href="#lets-talk"><b>Contact</b></a>
   </p>
 </div>
 
@@ -42,40 +42,40 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub>01 · CLIENT PROTOTYPE</sub>
+      <code>01 · CLIENT PROTOTYPE</code>
       <h3><a href="https://www.tanishmishra.tech/work/sop-opera">Foreman ↗</a></h3>
       <p>From messy inbox messages to organized requests, draft replies, and human approval.</p>
-      <sub>Next.js · n8n · Supabase</sub>
-      <p><a href="https://github.com/Tanish18906/Project-Saint-Builder">Code</a> · <a href="https://allsaintsbuilders.vercel.app/login">Prototype</a></p>
+      <p><code>Next.js</code> &nbsp;<code>n8n</code> &nbsp;<code>Supabase</code></p>
+      <p><a href="https://github.com/Tanish18906/Project-Saint-Builder"><b>Code</b></a> &nbsp;·&nbsp; <a href="https://allsaintsbuilders.vercel.app/login"><b>Prototype</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <sub>02 · CLIENT WORK</sub>
+      <code>02 · CLIENT WORK</code>
       <h3><a href="https://www.tanishmishra.tech/work/flowsync">Ridley Academy ↗</a></h3>
       <p>A support-email workflow with knowledge-base answers and a handoff when a person is needed.</p>
-      <sub>n8n · RAG · Pinecone</sub>
-      <p><a href="https://www.tanishmishra.tech/work/flowsync">Case study</a></p>
+      <p><code>n8n</code> &nbsp;<code>RAG</code> &nbsp;<code>Pinecone</code></p>
+      <p><a href="https://www.tanishmishra.tech/work/flowsync"><b>Case study</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>03 · SECURITY TOOL</sub>
+      <code>03 · SECURITY TOOL</code>
       <h3><a href="https://github.com/Tanish18906/SentraX">SentraX AI ↗</a></h3>
       <p>A Python CLI for finding security issues and separating evidence from assumptions.</p>
-      <sub>Python · Pydantic · Pytest</sub>
-      <p><a href="https://github.com/Tanish18906/SentraX">Source code</a></p>
+      <p><code>Python</code> &nbsp;<code>Pydantic</code> &nbsp;<code>Pytest</code></p>
+      <p><a href="https://github.com/Tanish18906/SentraX"><b>Source code</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <sub>04 · HACKATHON BUILD</sub>
+      <code>04 · HACKATHON BUILD</code>
       <h3><a href="https://github.com/Tanish18906/PRATYAKSH">PRATYAKSH ↗</a></h3>
       <p>A simulated data-leak investigation using file fingerprints and incomplete logs.</p>
-      <sub>FastAPI · React · TypeScript</sub>
-      <p><a href="https://github.com/Tanish18906/PRATYAKSH">Source code</a> · <a href="https://pratyaksh-frontend.netlify.app">Demo</a></p>
+      <p><code>FastAPI</code> &nbsp;<code>React</code> &nbsp;<code>TypeScript</code></p>
+      <p><a href="https://github.com/Tanish18906/PRATYAKSH"><b>Source code</b></a> &nbsp;·&nbsp; <a href="https://pratyaksh-frontend.netlify.app"><b>Demo</b></a></p>
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><b>A closer look at the work</b> &nbsp; <sub>click to expand</sub></summary>
+  <summary><b>A closer look at the work</b> &nbsp; <small><em>(click to expand)</em></small></summary>
   <p><b>Foreman</b> is a working prototype with sample data and manual email triggers. Direct IMAP/SMTP integration is not part of the current demo.</p>
   <p><b>Ridley Academy</b> explores support automation where human escalation still matters.</p>
   <p><b>SentraX</b> and <b>PRATYAKSH</b> are security-focused experiments, not claims of production-grade protection.</p>
@@ -88,7 +88,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,nodejs,fastapi,postgres,supabase,sqlite,git,linux,unity&amp;theme=light&amp;perline=7" alt="Python, JavaScript, TypeScript, React, Next.js, Tailwind, Node.js, FastAPI, PostgreSQL, Supabase, SQLite, Git, Linux and Unity" />
 </p>
 
-<p align="center"><sub>Also in the mix: n8n, REST APIs, RAG workflows, and a lot of terminal tabs.</sub></p>
+<p align="center"><small><em>Also in the mix: n8n, REST APIs, RAG workflows, and a lot of terminal tabs.</em></small></p>
 
 <h2 id="github-activity">03 / GitHub activity</h2>
 
@@ -97,7 +97,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanish18906&amp;bg_color=F7F5EE&amp;color=161616&amp;title_color=161616&amp;line=D8B600&amp;point=161616&amp;area_color=FACC00&amp;area=true&amp;hide_border=true&amp;radius=0&amp;custom_title=RECENT%20CONTRIBUTIONS" alt="Recent public GitHub activity for Tanish18906" width="100%" />
 </a>
 
-<p align="center"><sub>What I've been making, fixing, and learning on GitHub.</sub></p>
+<p align="center"><small><em>What I've been making, fixing, and learning on GitHub.</em></small></p>
 
 <h2 id="on-my-desk">04 / Currently</h2>
 
@@ -106,7 +106,7 @@
 | Starting a small AI services agency | Sharing more of the work in public | Designing story-driven games |
 
 <details>
-  <summary><b>Outside the editor</b> &nbsp; <sub>click to expand</sub></summary>
+  <summary><b>Outside the editor</b> &nbsp; <small><em>(click to expand)</em></small></summary>
   <p>I love story-mode games and the details that make a world feel alive. Games like Red Dead Redemption 2, The Last of Us, and Uncharted are part of why I want to make my own someday.</p>
 </details>
 
